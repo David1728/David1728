@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm David
-- 🔭 I like to programming
-- 🌱 I’m currently learning React
+- 👾 I like to programming
+- 🌱 I’m currently learning Python
 - 📫 I have knowledge about JavaScript, HTML and CSS
 
 <!--
